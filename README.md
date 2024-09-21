@@ -1,6 +1,6 @@
 # 🧠 Machine Learning Projects
 
-Welcome to the **Machine Learning Projects** repository! This collection showcases various projects I completed during my learning phase in machine learning. Each project demonstrates different techniques and algorithms, offering insights into their implementation and applications.
+Welcome to the **Machine Learning Projects** repository! This collection showcases various projects I completed during my learning phase for the freeCodeCamp machine learning certification. Each project demonstrates different techniques and algorithms, offering insights into their implementation and applications.
 
 ## Projects Overview
 
